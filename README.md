@@ -9,9 +9,7 @@
      { 
       "Linkedin": "https://www.linkedin.com/in/pablo-alexander-salazar-sanchez-78456b187/", 
       "page": "https://github.com/pablo19-alexander/mypage",
-      "Email": "pablo.pass1905@gmail.com",
-      "Number": "+57 3152417445",
-      "location": "Neiva, Huila, COL"
+      "Email": "pablo.pass1905@gmail.com"
      }
  }
 ```
