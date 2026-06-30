@@ -4,7 +4,7 @@
 
 ```shell
  { "name" : "Pablo Alexander Salazar Sanchez",
-   "role” : "Programador junior”,
+   "role” : "Programador senior”,
    "data" : 
      { 
       "Linkedin": "https://www.linkedin.com/in/pablo-alexander-salazar-sanchez-78456b187/", 
