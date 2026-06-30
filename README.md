@@ -3,15 +3,14 @@
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
 ```shell
- { "name" : "Pablo Alexander Salazar Sanchez",
-   "role” : "Programador senior”,
-   "data" : 
-     { 
-      "Linkedin": "https://www.linkedin.com/in/pablo-alexander-salazar-sanchez-78456b187/", 
-      "page": "https://github.com/pablo19-alexander/mypage",
-      "Email": "pablo.pass1905@gmail.com"
-     }
- }
+{
+  "nombre": "Pablo Alexander Salazar Sánchez",
+  "rol": ".NET & Full-Stack Developer",
+  "ubicacion": "Neiva, Huila — Colombia",
+  "actualmente": "Líder de proyecto · ARSYS-TDH ,
+  "experiencia": "5 años desarrollando con .NET",
+  "estudiando": "Ingeniería de Software · 8º semestre (FET)"
+}
 ```
 
 <h3>Frontend Development</h3>
